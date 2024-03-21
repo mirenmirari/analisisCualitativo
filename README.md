@@ -1,4 +1,4 @@
-# Análisis cualitativo de los corpus COREC y COSER utilizando Whisper
+# Análisis cualitativo de los corpus COREC y COSER utilizando el modelo Whisper y la métrica WER
 
 En este repositorio hemos almacenado los errores cometidos por Whisper Large-v2 en una serie de audios, obtenidos de los corpus COSER (Corpus Oral y Sonoro del Español Rural) y COREC (Corpus Oral de Referencia de Español en Contacto). 
 
